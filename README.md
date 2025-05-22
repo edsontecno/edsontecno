@@ -8,3 +8,10 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,js,python,mysql,postgres,mongodb,aws,docker,nginx,ansible,terraform,linux,git,github,githubactions,gitlab,vscode,angular,react,ts,nodejs,express,nestjs,npm,jest,html,css,graphql,grafana,prometheus,kubernetes,md,maven,spring,rabbitmq,vscode,eclipse" />
 </div>
+
+
+##
+<p align="center">
+  <b> Visitantes que passaram por aqui</b><br>
+  <img src="https://profile-counter.glitch.me/edsontecno/count.svg" />
+</p>
